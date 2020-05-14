@@ -1,3 +1,10 @@
+# 1.0.0 (2020-05-14)
+
+
+### Features
+
+* Add login on cognito ([5c6c54a](https://github.com/almerindo/cognito-aws/commit/5c6c54aaf63107c7144748df083a763ad9a72fa1))
+
 ## [1.0.1](https://github.com/almerindo/typescript-nodejs-boilerplate/compare/v1.0.0...v1.0.1) (2020-04-23)
 
 
