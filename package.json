@@ -29,7 +29,14 @@
   "dependencies": {
     "@types/jest": "^25.2.1",
     "@types/node": "^13.13.2",
-    "ts-jest": "^25.4.0"
+    "amazon-cognito-identity-js": "^4.2.3",
+    "amazon-cognito-identity-js-typescript": "^1.22.0",
+    "aws-sdk": "^2.676.0",
+    "es6-promise": "^4.2.8",
+    "isomorphic-fetch": "^2.2.1",
+    "json-loader": "^0.5.7",
+    "ts-jest": "^25.4.0",
+    "webpack": "^4.43.0"
   },
   "version": "1.0.1"
 }
