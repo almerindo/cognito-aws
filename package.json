@@ -31,7 +31,7 @@
     "@types/node": "^13.13.2",
     "amazon-cognito-identity-js": "^4.2.3",
     "amazon-cognito-identity-js-typescript": "^1.22.0",
-    "aws-sdk": "^2.676.0",
+    "aws-sdk": "^2.814.0",
     "es6-promise": "^4.2.8",
     "isomorphic-fetch": "^2.2.1",
     "json-loader": "^0.5.7",
